@@ -1,0 +1,96 @@
+[
+  {
+    "image": "image1",
+    "name": "Triple Peach Americano",
+    "price": "Rp29.000",
+    "description": "Peach coffee perpaduan rasa kopi, tiga jenis buah peach dan aroma elderflower yang menciptakan sensasi kopi yang segar dan harmonis."
+  },
+  {
+    "image": "image2",
+    "name": "Berry Manuka Americano", 
+    "price": "Rp29.000",
+    "description": "Perpaduan rasa Stroberi dan Manuka dengan Classic Blend Fore yang menyegarkan."
+  },
+  {
+    "image": "image3",
+    "name": "Iced Manuka Americano",
+    "price": "Rp29.000",
+    "description": "Americano dengan madu Manuka yang pas untuk jadi energy booster."
+  },
+  {
+    "image": "image4",
+    "name": "Hot Manuka Americano",
+    "price": "Rp29.000",
+    "description": "Americano dengan madu Manuka yang pas untuk jadi energy booster."
+  },
+  {
+    "image": "image5",
+    "name": "Iced Americano",
+    "price": "Rp21.000",
+    "description": "Espresso shot dalam segelas air dengan menjaga ketebalan rasa kopinya."
+  },
+  {
+    "image": "image6",
+    "name": "Hot Americano",
+    "price": "Rp21.000",
+    "description": "Espresso shot dalam segelas air dengan menjaga ketebalan rasa kopinya."
+  },
+  {
+    "image": "image7",
+    "name": "Nutty Oat Latte",
+    "price": "Rp39.000",
+    "description": "Espresso dari biji kopi khas nusantara dipadukan susu oat gluten-free dan sensasi nutty dari hazelnut."
+  },
+  {
+    "image": "image8",
+    "name": "Iced Classic Latte",
+    "price": "Rp24.000",
+    "description": "Perpaduan rasa espresso premium dengan saus krim spesial Fore."
+  },
+  {
+    "image": "image9",
+    "name": "Iced Salted Caramel Mocha",
+    "price": "Rp33.000",
+    "description": "Perpaduan coklat, latte dari house blend Fore, dan gurihnya caramel."
+  },
+  {
+    "image": "image10",
+    "name": "Hot Salted Caramel Mocha",
+    "price": "Rp33.000",
+    "description": "Perpaduan coklat, latte dari house blend Fore, dan gurihnya caramel."
+  },
+
+
+  {
+    "image": "image11",
+    "name": "Butterscotch Sea Salt Latte 1L",
+    "price": "Rp124.000",
+    "description": "Perpaduan butterscotch dan espresso house blend dengan topping cream sea salt yang lembut di atasnya"
+  },
+  {
+    "image": "image12",
+    "name": "Aren Latte 1L",
+    "price": "Rp90.000",
+    "description": "Rasa alami Aren Latte dalam ukuran 1 liter untuk dinikmati bersama keluarga di rumah."
+  },
+  {
+    "image": "image13",
+    "name": "Caramel Praline Macchiato 1L",
+    "price": "Rp93.000",
+    "description": "Latte dengan saus Praline dan karamel dengan rasa dan aroma manis."
+  },
+  {
+    "image": "image14",
+    "name": "Pandan Latte 1L",
+    "price": "Rp95.000",
+    "description": "Latte dengan saus Praline dan karamel dengan rasa dan aroma manis."
+  },
+  {
+    "image": "image15",
+    "name": "Café Malt Latte 1L",
+    "price": "Rp95.000",
+    "description": "Paduan latte dan sirup Irish yang menghasilkan aroma dan rasa lembut."
+  },
+
+]
+  

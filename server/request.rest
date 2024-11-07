@@ -1,0 +1,39 @@
+GET http://localhost:5000/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsIm5hbWUiOiJhYmxhMSIsImVtYWlsIjoiYWJsYTFAZ21haWwuY29tIiwiaWF0IjoxNzI2NjY5NjkwLCJleHAiOjE3MjY2Njk3MTB9.FiUPWkvaDSl6mpNwSqZxQcgHfJ2O6iCtHNE1ddaP9FA
+###
+// Register
+POST http://localhost:5000/users
+Content-Type: application/json
+
+{
+    "name": "abla4",
+    "email": "abla4@gmail.com",
+    "username": "abla4",
+    "password": "44444",
+    "confPassword": "44444"
+}
+### 
+// Login
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+    "femail": "abla1@gmail.com",
+    "fpassword": "11111"
+} 
+###
+// after login, refresh token when expired
+GET http://localhost:5000/token
+###
+// logout - delete token
+DELETE http://localhost:5000/logout
+
+
+
+
+
+
+###
+// tb_product
+GET http://localhost:5000/products
+
