@@ -1,6 +1,6 @@
 import { Sequelize } from "sequelize";
 
-const db = new Sequelize ('db_coffee', 'aas', 'aas', {
+const db = new Sequelize ('db_coffee', '', '', {
     host: 'localhost',
     dialect: 'mysql'
 });
